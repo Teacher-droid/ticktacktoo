@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "ticktacktoo-60240": {
+      "hosting": {
+        "TicTacToe": [
+          "ticktacktoo-60240"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "ticktacktoo-60240"
+  }
+}
